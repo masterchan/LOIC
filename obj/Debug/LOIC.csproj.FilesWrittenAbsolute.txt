@@ -1,0 +1,9 @@
+/Users/michaelchan/Documents/Git/LOIC/obj/Debug/LOIC.frmMain.resources
+/Users/michaelchan/Documents/Git/LOIC/obj/Debug/LOIC.frmWtf.resources
+/Users/michaelchan/Documents/Git/LOIC/obj/Debug/LOIC.Properties.Resources.resources
+/Users/michaelchan/Documents/Git/LOIC/bin/Debug/LOIC.exe.mdb
+/Users/michaelchan/Documents/Git/LOIC/bin/Debug/LOIC.exe
+/Users/michaelchan/Documents/Git/LOIC/obj/Debug/LOIC.exe
+/Users/michaelchan/Documents/Git/LOIC/obj/Debug/LOIC.exe.mdb
+/Users/michaelchan/Documents/Git/LOIC/bin/Debug/IRC.dll
+/Users/michaelchan/Documents/Git/LOIC/bin/Debug/IRC.dll.mdb

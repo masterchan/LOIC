@@ -1,0 +1,4 @@
+/Users/michaelchan/Documents/Git/LOIC/bin/Debug/IRC.dll.mdb
+/Users/michaelchan/Documents/Git/LOIC/bin/Debug/IRC.dll
+/Users/michaelchan/Documents/Git/LOIC/IRC/obj/Debug/IRC.dll
+/Users/michaelchan/Documents/Git/LOIC/IRC/obj/Debug/IRC.dll.mdb
